@@ -2,7 +2,9 @@
 #include <string.h>
 /** 
  * my function
-*/
+ * prints string
+ * returns 0
+ */
 	int main(void)
 	{		
 		
