@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-/** 
+/**
  * my function
  * prints string
  * returns 0
