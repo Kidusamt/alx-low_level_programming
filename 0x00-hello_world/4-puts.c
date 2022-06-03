@@ -1,13 +1,10 @@
 #include <stdio.h>
 #include <string.h>
 /**
- * my_function - prints string
+ * main - prints string
+ * Return:0 if after complition
  */
 int main(void)
-/**
- * function main
- * Return: o if success
- */
 {
 char s[] = "\"Programming is like building a multilingual puzzle";
 
