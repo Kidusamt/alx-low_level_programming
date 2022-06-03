@@ -5,7 +5,7 @@
   */
 int main(void)
 {
-char a=97;
+char a = 98;
 while (a < 123)
 {
 putchar('a');
