@@ -1,4 +1,4 @@
-nclude<stdio.h>
+#include<stdio.h>
 /**
  * Description: main - small letter print wit out e and q
  *  Return: 0 after complition
