@@ -4,6 +4,7 @@
  * Return: 0 after test complition
  */
 int main(void)
+{
 	char a = 'z';
 	while (a <= 'a')
 	{
@@ -12,3 +13,4 @@ int main(void)
 	}
 putchar('\n');
 return (0);
+}
