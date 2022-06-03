@@ -2,11 +2,12 @@
 /**
  *   * Description: main - small letter print
  *     * Return: 0 after complition
- *       */
+ */
 int main(void)
 {
 	char a = 'a';
 	char b = 'A';
+
 	while (a <= 'z')
 	{
 		putchar(a);
