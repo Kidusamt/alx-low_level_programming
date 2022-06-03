@@ -2,8 +2,8 @@
 #include<stdio.h>
 #include<time.h>
 /**
- *  * Description: main - use of printf
- *   * Return: 0 after complition    
+ * Description: main - use of printf
+ * Return: 0 after complition    
  */
 int main(void)
 {
@@ -19,7 +19,7 @@ int main(void)
 	{
 		printf("%d is negative\n", n);
 	}
-	else 
+	else
 		printf("%d is positive\n", n);
 return (0);
 }
