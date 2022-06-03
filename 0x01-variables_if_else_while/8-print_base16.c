@@ -3,7 +3,7 @@
  * Description: main - small letter print
  * Return: 0 after complition
  */
-int maib(void)
+int main(void)
 {
 	char a = '0';
 
