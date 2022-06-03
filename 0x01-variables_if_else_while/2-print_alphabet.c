@@ -8,7 +8,7 @@ int main(void)
 char a=97;
 while (a < 123)
 {
-putchar(a\n)
+putchar('a'\n)
 	a++
 }
 return (0);
