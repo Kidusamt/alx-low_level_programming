@@ -9,7 +9,7 @@ int maib(void)
 
 	while (a <= 'f')
 {
-	putchar('%x', a);
+	putchar(a);
 	a++;
 }
 putchar('\n')
