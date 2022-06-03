@@ -7,8 +7,17 @@ int main(void)
 {
 	char a = 'a';
 
-	for (a = 0; a < 'z'; a++)
+	for (a = 'a'; a < 'z'; a++)
 	{
+		if (a = 'e')
+		{
+			return(0);
+		}
+		else if (a = 'q');
+		{
+			return(0);
+		}
+		else
 		putchar(a);
 		a++;
 	}
