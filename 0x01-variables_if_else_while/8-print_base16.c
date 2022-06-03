@@ -12,6 +12,6 @@ int maib(void)
 	putchar(a);
 	a++;
 }
-putchar('\n')
+putchar('\n');
 return (0);
 }
