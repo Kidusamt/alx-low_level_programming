@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- *  * Description: main - print 0-9
- *   * Return: 0 after complition
- *    */
+ * Description: main - print 0-9
+ * Return: 0 after complition
+ */
 int main(void)
 {
 	int i = 0;
