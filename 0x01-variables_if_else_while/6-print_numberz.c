@@ -1,5 +1,5 @@
-#include<stdio.h>                                                                                                                   
-/**                                                                                                                                 
+#include<stdio.h>
+/** 
  * Description: main - print 1-0
  * Return: 0 after complition
  */
@@ -13,5 +13,5 @@ putchar(i + '0');
 i++;
 }
 putchar('\n');
-return (0); 
+return (0);
 }
