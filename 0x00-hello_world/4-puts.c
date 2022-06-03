@@ -9,13 +9,13 @@
  * returns 0
  */
 int main(void)
+/**
+ * function main
+ */
 {
 	char s[] = "\"Programming is like building a multilingual puzzle";
 
 	puts(s);
-/**
- * returs 0
- */
-	return (0);	
+return (0);	
 }
 
