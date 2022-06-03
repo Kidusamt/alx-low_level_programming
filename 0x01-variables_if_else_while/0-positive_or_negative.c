@@ -1,5 +1,6 @@
-#include <stdlib.h>
-#include <time.h>
+#include<stdlib.h>
+#include<stdio.h>
+#include<time.h>
 /**
  *  * Description: main - use of printf
  *   * Return: 0 after complition
