@@ -1,11 +1,11 @@
 #include<stdio.h>                                                                                                                   
 /**                                                                                                                                 
- * Description: main - print 1-0                                                                                                    
- * Return: 0 after complition                                                                                                       
- */                                                                                                                                 
-int main(void)                                                                                                                      
+ * Description: main - print 1-0
+ * Return: 0 after complition
+ */
+int main(void)
 {
-int i = 0;                                                                                                                      
+int i = 0;
 		                                                                                                                                    
 while (i < 10)
 {
