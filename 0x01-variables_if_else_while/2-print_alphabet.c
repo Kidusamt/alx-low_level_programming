@@ -5,10 +5,10 @@
   */
 int main(void)
 {
-char a = 98;
+char a = 97;
 while (a < 123)
 {
-putchar('a');
+putchar("%c", a);
 	a++;
 }
 return (0);
