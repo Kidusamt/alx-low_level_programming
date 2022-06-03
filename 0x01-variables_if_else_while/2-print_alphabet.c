@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
-  * Description: main - chk the last number
+  * Description: main - small letter print
   * Return: 0 after complition
   */
 int main(void)
@@ -14,4 +14,3 @@ putchar(a);
 putchar('\n');
 return (0);
 }
-		
