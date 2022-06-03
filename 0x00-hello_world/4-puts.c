@@ -1,6 +1,3 @@
-/**
- * prints string
- */
 #include <stdio.h>
 #include <string.h>
 /**
@@ -11,11 +8,12 @@
 int main(void)
 /**
  * function main
+ * return: o if success
  */
 {
-	char s[] = "\"Programming is like building a multilingual puzzle";
+char s[] = "\"Programming is like building a multilingual puzzle";
 
-	puts(s);
+puts(s);
 return (0);	
 }
 
