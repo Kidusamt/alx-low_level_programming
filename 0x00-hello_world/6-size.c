@@ -3,7 +3,7 @@
 /**
  *  * main - prints size of dif var
  *   * Return:0 if after complition
- *    */
+ */
 int main(void)
 {
 	char c;
