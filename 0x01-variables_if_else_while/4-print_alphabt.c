@@ -10,7 +10,11 @@ int main(void)
 	for (a = 'a'; a <= 'z'; a++)
 	{
 		if (a == 'e')
+		{
+		}
 		else if (a == 'q')
+		{
+		}
 		else
 		{
 			putchar(a);
