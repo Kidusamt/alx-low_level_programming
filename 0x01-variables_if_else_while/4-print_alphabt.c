@@ -9,11 +9,11 @@ int main(void)
 
 	for (a = 'a'; a < 'z'; a++)
 	{
-		if (a = 'e')
+		if (a == 'e')
 		{
 			return(0);
 		}
-		else if (a = 'q');
+		else if (a == 'q')
 		{
 			return(0);
 		}
