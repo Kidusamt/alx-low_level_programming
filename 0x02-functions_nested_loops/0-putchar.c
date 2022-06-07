@@ -3,7 +3,8 @@
  * Description: main - print p
  * Return: 0 after complition
  */
-int main(void){
+int main(void)
+{
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
@@ -12,6 +13,6 @@ int main(void){
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
-	_putchar(' ');
-	return(0);
+	_putchar('\n');
+	return (0);
 }
