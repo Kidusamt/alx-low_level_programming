@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * Description: main - chk the last number
+ * Description: main - print p
  * Return: 0 after complition
  */
 int main(void){
