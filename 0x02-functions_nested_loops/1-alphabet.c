@@ -1,9 +1,9 @@
-#include "main.h"                                                                                                                               
+#include "main.h" 
 /**                                                                                                                                             
- *  * Description: main - print p                                                                                                                  
- *   * Return: 0 after complition                                                                                                                   
- *    */                                                                                                                                             
-int main(void)                                                                                                                                  
+ * Description: main - print a-z 
+ * Return: 0 after complition
+ */
+int main(void)
 {
 	void print_alphabet(void)
 	{
