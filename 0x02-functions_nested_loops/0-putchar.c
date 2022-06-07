@@ -1,8 +1,7 @@
 #include "main.h"
-#include <stdio.h>
 /**
- * 
- *
+ * Description: main - chk the last number
+ * Return: 0 after complition
  */
 int main(void){
 	_putchar('_');
