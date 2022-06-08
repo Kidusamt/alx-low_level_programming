@@ -13,7 +13,7 @@ int main(void)
 
 	i=0;
 
-/**
+/*
  * comment out the deffective code
  *	 while (i < 10)
  *	 {
