@@ -1,5 +1,6 @@
 #include "main.h"
-/** Discription: print_sign -prints - or +
+/** 
+ * Discription: print_sign -prints - or +
  * return: 1 + -1 0
  * @c : chk sign
  */
