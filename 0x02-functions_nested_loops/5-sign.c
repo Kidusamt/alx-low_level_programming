@@ -1,4 +1,4 @@
-#include "main.c"
+#include "main.h"
 /** discription: print_sign-prints - or +
  * return: 1 + -1 0
  * @c : chk sign
