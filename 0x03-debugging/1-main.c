@@ -4,6 +4,7 @@
  * Return: 0
  * cmment out thev defective code
  */
+
 int main(void)
 {
 	int i;
@@ -11,6 +12,7 @@ int main(void)
 	printf("Infinite loop incoming :(\n");
 
 	i=0;
+
 /**
  * comment out the deffective code
  *	 while (i < 10)
@@ -18,6 +20,7 @@ int main(void)
  *		putchar(i);
  *	 }
  */
+
 	printf("Infinite loop avoided! \\o/\n");
 	return(0);
 }
