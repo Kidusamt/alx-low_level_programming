@@ -6,10 +6,14 @@
  */
 void print_to_98(int n)
 {
-  while (n < 99)
+  while (n <= 98)
     {
         _putchar(n);
         n++;
+  }
+    do while{ (n>98)
+        _putchar(n)
+         n--
     }
 _putchar('\n');
 }
