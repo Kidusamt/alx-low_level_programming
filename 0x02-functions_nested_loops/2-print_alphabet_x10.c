@@ -1,5 +1,5 @@
 #include "main.h"
-/** 
+/**
  * description:print_alphabet_x10- prints 10x
  */
 void print_alphabet_x10(void)
@@ -13,6 +13,6 @@ for (letter = 'a'; letter <= 'z'; letter++)
 {
   _putchar(letter);  
 }
-_putchar('\n');
+  _putchar('\n');
 }
 }
