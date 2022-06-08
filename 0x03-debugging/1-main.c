@@ -4,7 +4,6 @@
  * Return: 0
  * cmment out thev defective code
  */
-
 int main(void)
 {
 	int i;
