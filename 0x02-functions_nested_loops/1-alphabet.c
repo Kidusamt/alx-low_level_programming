@@ -3,15 +3,19 @@
  * Description: main - print a-z 
  * Return: 0 after complition
  */
-int main(void)
-{
-	void print_alphabet(void)
 
+void print_alphabet(void)
 	{
-			char l;
+		char l;
 
 				for ( l = 'a'; l <= 'z'; l++)					_putchar(l);
 					_putchar('\n');
 	}
 	return (0);
 }
+				for ( l = 'a'; l <= 'z'; l++)
+				{
+							_putchar(l);
+				}
+					_putchar('\n');
+	}
