@@ -2,7 +2,8 @@
 /** 
  * Discription: print_sign -prints - or +
  * return: 1 + -1 0
- * @c : chk sign
+ * @n: The number of which the sign will be printed.
+ * print_sign - print the sign of a number - or +
  */
 int print_sign(int n)
 {
