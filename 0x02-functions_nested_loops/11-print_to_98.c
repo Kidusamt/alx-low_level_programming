@@ -12,5 +12,4 @@ int i = n;
         _putchar('i');
     }
 _putchar('\n');
-  return(0);
 }
