@@ -1,7 +1,7 @@
 #include "main.h"
-/** 
+/**
  * Discription: print_sign -prints - or +
- * return: 1 + -1 0
+ * Return: 1 + -1 0
  * @n: The number of which the sign will be printed.
  * print_sign - print the sign of a number - or +
  */
