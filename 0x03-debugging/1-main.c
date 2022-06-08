@@ -2,7 +2,7 @@
 /**
  * main - causes an infinite loop
  * Return: 0
- * cmment out thev defective code
+ * comment: out the defective code
  */
 int main(void)
 {
