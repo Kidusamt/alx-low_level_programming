@@ -5,7 +5,6 @@
  * Return: 0
  * while loop makes infinity loop due to no incrment
  * comment: out the defective code
- * printf: new line
  */
 int main(void)
 {
