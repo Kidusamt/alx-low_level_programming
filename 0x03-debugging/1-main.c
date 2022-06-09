@@ -17,7 +17,7 @@ int main(void)
  * comment out the deffective code
  *	 while (i < 10)
  *	 {
- *		putchar(i);
+ *	putchar(i);
  *	 }
  */
 
