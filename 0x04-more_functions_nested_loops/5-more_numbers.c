@@ -3,7 +3,7 @@
  * more_numbers - print 1-14 10x
  * Return: void
  */
-void more_numbers(void);
+void more_numbers(void)
 {
 	char i, j;
 
