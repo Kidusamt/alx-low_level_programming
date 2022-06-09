@@ -1,10 +1,7 @@
 #include <stdio.h>
 /**
  * main - causes an infinite loop
- * Description: cause infinity loop
  * Return: 0
- * while loop makes infinity loop due to no incrment
- * comment: out the defective code
  */
 int main(void)
 {
@@ -15,7 +12,6 @@ int main(void)
 	i = 0;
 
 /*
- * comment out the deffective code
  *	 while (i < 10)
  *	 {
  *	putchar(i);
