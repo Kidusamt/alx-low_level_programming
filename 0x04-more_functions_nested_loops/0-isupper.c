@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * Description: chk upert or lower
+ * _isupper- chk upert or lower
+ * @c: character to check
  * return 1 if uper
  * return 0 if lower
  */
