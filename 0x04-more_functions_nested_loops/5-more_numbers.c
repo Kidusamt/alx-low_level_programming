@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * more_numbers - print 1-14 10x
  * Return: void
