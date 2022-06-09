@@ -1,9 +1,11 @@
 #include <stdio.h>
 /**
+ *Description: cause infinity loop
  * main - causes an infinite loop
  * Return: 0
  * while loop makes infinity loop due to no incrment
  * comment: out the defective code
+ * \\o/\n: ne line
  */
 int main(void)
 {
