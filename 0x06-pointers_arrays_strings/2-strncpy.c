@@ -3,7 +3,7 @@
  * @dest: 1st str
  * @src: char
  * @n: int
- * Return: char
+ * Return: char.
  */
 char *_strncpy(char *dest, char *src, int n)
 {
