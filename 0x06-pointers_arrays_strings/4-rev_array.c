@@ -1,6 +1,6 @@
 /**
  * reverse_array - reverse_array
- * @a: arry pointer
+ * @a: arry pointer.
  * @n: number of arry element
  */
 void reverse_array(int *a, int n)
