@@ -1,7 +1,7 @@
 #include "main.h"
 /**
 * print_chessboard - print_chessboard
-* @a: arry pointe size 8
+* @a: arry pointe size 8.`:wq
 */
 void print_chessboard(char (*a)[8])
 {
