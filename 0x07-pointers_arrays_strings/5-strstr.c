@@ -2,7 +2,7 @@
 /**
 * *_strstr - unction that locates a substring
 * @haystack: arg 1
-* @needle: arg 2
+* @needle: arg 2.
 * Return: char/
 */
 char *_strstr(char *haystack, char *needle)
