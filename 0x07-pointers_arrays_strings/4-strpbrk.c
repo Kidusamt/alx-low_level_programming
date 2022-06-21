@@ -6,7 +6,6 @@
 * Return: char.
 */
 char *_strpbrk(char *s, char *accept)
-char *_strpbrk(char *s, char *accept)
 {
 unsigned int i, j;
 
