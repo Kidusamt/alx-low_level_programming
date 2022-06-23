@@ -4,6 +4,8 @@
  * @a: same number as n
  * @b: number that iterates from 1 to n
  * Return: 1
+ * _sqrt_recursion - returns the natural square root
+ * @n: int
  */
 int sqrt2(int a, int b)
 {
