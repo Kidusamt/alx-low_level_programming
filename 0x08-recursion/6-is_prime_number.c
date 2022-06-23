@@ -1,4 +1,4 @@
-nclude "holberton.h"
+nclude "main.h"
 
 /**
 *prime2 - evaluate from 1 to n
