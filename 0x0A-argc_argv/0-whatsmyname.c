@@ -4,7 +4,7 @@
  * main - prints the name
  * @argc: argument number
  * @argv: arry of string of argument
- * Return: 0 after complition
+ * Return: 0
  */
 int main(int argc, char *argv[])
 {
