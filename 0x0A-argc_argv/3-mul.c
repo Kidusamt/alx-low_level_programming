@@ -18,7 +18,8 @@ int main(int argc, char *argv[])
 	else
 		for (i = 1; i < argc; i++)
 		{
-			mul = argv[i] * argv[i + 1]
+			mul = argv[i] * argv[i + 1];
 		}
+	printf("%d", mul);
 return (0);
 }
