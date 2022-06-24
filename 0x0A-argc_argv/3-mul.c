@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
 		return (1);
 	}
 	else
-		for (i = 1; i < argc; i++)
+		for (i = 1; i < 3; i++)
 		{
 			mul = atoi(argv[i] * argv[i + 1]);
 		}
