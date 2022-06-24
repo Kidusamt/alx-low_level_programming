@@ -1,18 +1,24 @@
 #include "main.h"
 #include <stdio.h>
 /**
- *  * main - prints all argument
- *   * @argc: argument number
- *    * @argv: arry
- *     * Return: 0
- *      */
+* main - multiplies 2 numbers
+* @argc: argument number
+* @argv: arry
+* Return: 0
+*/
 int main(int argc, char *argv[])
 {
-		int i;
+	int i, mul;
 
-			for (i = 0; i < argc; i++)
-					{
-								printf("%s\n", argv[i]);
-									}
-				return (0);
+	if (argc != 2)
+	{
+		printf("ERROR\n");
+		return (1);
+	}
+	else
+		for (i = 1; i < argc; i++)
+		{
+			mul = argv[i] * argv[i + 1]
+		}
+return (0);
 }
