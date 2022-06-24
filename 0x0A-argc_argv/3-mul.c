@@ -9,7 +9,7 @@
 */
 int main(int argc, char *argv[])
 {
-	int i, mul;
+	int mul;
 
 	if (argc == 1 || argc == 2)
 	{
@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
 		return (1);
 	}
 	else
-		mul = atoi(argv[i] * argv[i + 1]);
+		mul = atoi(argv[1] * argv[2]);
 	printf("%d", mul);
 return (0);
 }
