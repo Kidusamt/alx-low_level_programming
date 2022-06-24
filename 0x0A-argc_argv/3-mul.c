@@ -3,7 +3,7 @@
 /**
 * main - multiplies 2 numbers
 * @argc: argument number
-* @argv: arry
+* @argv: arry.
 * Return: 0
 */
 int main(int argc, char *argv[])
