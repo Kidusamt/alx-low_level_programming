@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-#include "holberton.h"
+#include "main.h"
 
 /**
 * main - Preturns the sum of +ve numbers
@@ -42,4 +42,3 @@ printf("%d\n", sum);
 }
 return (0);
 }
-
