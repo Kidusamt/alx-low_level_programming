@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -5,7 +6,7 @@
 * create_array - func
 * @size: size of array
 * @c: char
-* Return: a pointer to array 
+* Return: a pointer to array
 */
 char *create_array(unsigned int size, char c)
 {

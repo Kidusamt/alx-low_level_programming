@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include "main.h"
 /**
-* ree_grid - fun
+* free_grid - fun
 * @grid: rows matrix
 * @height: columns of string
 * Return: a pointer to a 2 dimensional array of integers or null
