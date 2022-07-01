@@ -27,27 +27,27 @@ for (j = 0; s2[j] != '\0'; j++)
 {
 }
 
-	for (j = 0; s2[j] != '\0'; j++)
-		{
-				}
+for (j = 0; s2[j] != '\0'; j++)
+{
+}
 
-	if (n < j)
-			j = n;
+if (n < j)
+j = n;
 
-				j += i;
-					arr = malloc(sizeof(char *) * (j + 1));
+j += i;
+arr = malloc(sizeof(char *) * (j + 1));
 
-						if (arr == NULL)
-			return (NULL);
+if (arr == NULL)
+return (NULL);
 
-				for (co = 0; co < i; co++)
-						arr[co] = s1[co];
-							for (co_2 = 0; co < j; co_2++)
-								{
-											arr[co] = s2[co_2];
-													co++;
-														}
-	co++;
-		arr[co] = '\0';
-			return (arr);
-			}
+for (co = 0; co < i; co++)
+arr[co] = s1[co];
+for (co_2 = 0; co < j; co_2++)
+{
+arr[co] = s2[co_2];
+co++;
+}
+co++;
+arr[co] = '\0';
+return (arr);
+}
