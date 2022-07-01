@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include "main.h"
 /**
-* array_range - get len, malloc * len
+* array_range - get len,, malloc * len
 * loop size of len to insert min++ into new arr
 * @min: min input
 * @max: max input

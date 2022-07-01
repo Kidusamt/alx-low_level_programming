@@ -5,7 +5,7 @@
 * _realloc - reallocates old to new, set conditions from problem
 * returning dest w/ size of malloc new_size, set src as ptr
 * @ptr: pointer to memory prev alloc, must free end
-* @old_size: input old
+* @old_size: input old.
 * @new_size: input new
 * Return: 0
 */
