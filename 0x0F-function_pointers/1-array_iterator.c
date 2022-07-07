@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
 * array_iterator - func
-* @arry: arry
+* @array: arry
 * @size: size of array
 * @action: function pointer
 */
-array_terator(int *array, size_t size, void (*action)(int))
+array_iterator(int *array, size_t size, void (*action)(int))
 {
 size_t i;
 
