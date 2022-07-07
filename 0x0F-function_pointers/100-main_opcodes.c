@@ -2,8 +2,8 @@
 #include<stdlib.h>
 /**
  * main- Entry point
- *@argc: the number of parameters.
- *@argv: the parameeters in the case the number ob bytes.
+ * @argc: the number of parameters.
+ * @argv: the parameeters in the case the number ob bytes.
 * Return: 0
 */
 int main(int argc, char *argv[])
