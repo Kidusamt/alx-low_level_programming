@@ -2,7 +2,7 @@
 * array_iterator - func
 * @arry: arry
 * @size: size of array
-* @action: func pointer
+* @action: function pointer
 */
 array_terator(int *array, size_t size, void (*action)(int))
 {
