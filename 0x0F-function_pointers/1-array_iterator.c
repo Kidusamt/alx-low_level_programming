@@ -1,3 +1,4 @@
+#include <stdio.h>
 /**
 * array_iterator - func
 * @arry: arry
