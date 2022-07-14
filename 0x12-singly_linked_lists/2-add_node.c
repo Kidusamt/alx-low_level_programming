@@ -32,7 +32,7 @@ return (temp);
 *    *
 *     * Description: returns a pointer to allocated space in memory
 *      * Return: pointer
-*       */
+*/
 char *_strdup(const char *str)
 {
 int i, j;
