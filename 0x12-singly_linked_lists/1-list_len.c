@@ -6,8 +6,8 @@
 *   * @h: const list_t pointer argument to struct
 *    *
 *     * Description: returns the number of elements in a linked list
-*      * Return: number of elements
-*       */
+*      * Return: number of element
+*/
 size_t list_len(const list_t *h)
 {
 unsigned int count = 0;

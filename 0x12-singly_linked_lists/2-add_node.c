@@ -8,7 +8,7 @@
 *     *
 *      * Description: adds a new node at the beginning
 *       * Return: address of new element
-*        */
+*/
 list_t *add_node(list_t **head, const char *str)
 {
 int count = 0;
@@ -60,4 +60,3 @@ j++;
 ptr[j] = '\0';
 return (ptr);
 }
-Footer
