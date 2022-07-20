@@ -51,5 +51,3 @@ head = head->next;
 }
 return (0);
 }
-Footer
-
