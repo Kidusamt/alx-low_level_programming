@@ -7,7 +7,6 @@
  */
 unsigned int binary_to_uint(const char *b)
 {
-int check_0_1(const char *b);
 unsigned int i = 0, sum = 0, j = 1;
 if (!check_0_1(b))
 return (0);
@@ -17,7 +16,7 @@ i++;
 
 while (i > 0)
 {
-sum = (sum + ((b[i - 1] - '0') * powof2));
+sum = (sum + ((b[i - 1] - '0') * j));
 j *= 2;
 i--;
 }
