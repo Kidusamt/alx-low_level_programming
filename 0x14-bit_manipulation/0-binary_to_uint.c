@@ -8,19 +8,20 @@
 unsigned int binary_to_uint(const char *b)
 {
 int check_0_1(const char *b);
-unsigned int i =0,sum = 0,j = 0;
+unsigned int i = 0, sum = 0, j = 0;
 if (!check_0_1(b))
 return (0);
 
 while (b[i])
 i++;
 
-while (i > 0){
-sum=(sum + ((b[i-1] - '0') * (pow (2,j))));
+while (i > 0)
+{
+sum = (sum + ((b[i - 1] - '0') * (pow(2, j))));
 j++;
 i--;
 }
-return(sum);
+return (sum);
 }
 /**
  * check_0_1 - checks if a string has only 0's and 1's
